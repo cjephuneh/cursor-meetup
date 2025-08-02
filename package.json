@@ -1,0 +1,17 @@
+{
+  "name": "cursor-meetup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "docs": "jsdoc math.js -d docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "jsdoc": "^4.0.4"
+  }
+}
